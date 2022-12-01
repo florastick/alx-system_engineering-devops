@@ -1,1 +1,1 @@
-all files begining with a period character
+script that prints the type of the file named iamafile
