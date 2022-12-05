@@ -1,2 +1,2 @@
-#!/bconfush
+#!/bin/bash
 echo "\"(Ôo)'"
